@@ -1,0 +1,16 @@
+# Site settings
+title: Red River SQL Server User Group
+email: rrssug@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The Red River SQL Server User Group meets the third Wednesday of each
+  month at the LSUS Technology Center.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rrssug.com" # the base hostname & protocol for your site
+twitter_username: rrssug
+facebook_page: "https://www.facebook.com/groups/RedRiverSSUG/"
+mailing_list: "http://eepurl.com/beyr4z"
+#github_username:  RedRiverSSUG
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
